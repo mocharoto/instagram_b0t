@@ -130,3 +130,10 @@ dmypy.json
 
 #chromedriver
 chromedriver
+
+#credentials
+credentials.json
+
+#vscode
+vscode
+.vscode
