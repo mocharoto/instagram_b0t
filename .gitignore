@@ -133,6 +133,7 @@ chromedriver
 
 #credentials
 credentials.json
+credentials.json.gpg
 
 #vscode
 vscode
